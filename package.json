@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "local": "next start -H localhost --turbopack"
+    "local": "next dev -H localhost --turbopack"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.2",
