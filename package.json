@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "local": "next start -H localhost",
-    "testconnection": "node ./lib/db/connectionscratch.js"
+    "testconnection": "node lib/db/connectionscratch.js"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.2",
